@@ -14,8 +14,8 @@ Installation
 
     coffee automatic_sending.coffee
 
-  6. Add the bot to the channel/group you want it to be, write something and take note of the ChannelID
-  7. configure that ChannelID in config.js
+  6. Add the bot to the channel/group you want it to be, write something in that channel and take note of the ChannelID in the bot log
+  7. Configure that ChannelID in config.js
   8. Execute the script:
 
     coffee automatic_sending.coffee
